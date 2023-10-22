@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Bank bank = new Bank();
 
-        Account aldean = new Account("Aldean", "1202200777");
+        Account aldean = new Account("Gilang", "1202220013");
         Account tegar = new Account("Tegar", "1202200888");
         Account gemilang = new Account("Gemilang", "1202200999");
 
