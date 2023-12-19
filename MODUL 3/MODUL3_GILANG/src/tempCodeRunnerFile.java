@@ -1,0 +1,1 @@
+Cashier cashier = new Cashier();
